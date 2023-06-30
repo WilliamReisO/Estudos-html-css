@@ -7,7 +7,9 @@
 }
 body {
     height: 100vh;
-    background:no-repeat, url('https://img.freepik.com/free-vector/arabic-ornamental-background-paper-style_23-2148886197.jpg?w=826&t=st=1686086131~exp=1686086731~hmac=6bff4f9aabe67938086203a91215d09b2799882c5e75440a8371d093b04a45c4');
+    background-color: #FFE53B;
+    background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
+    ;
     display: flex;
     align-items: center;
     justify-content: center;
